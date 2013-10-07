@@ -1,1 +1,1 @@
-This could be an R script. Or any other script.
+This could be an R script. Or any other script, program, etc.
